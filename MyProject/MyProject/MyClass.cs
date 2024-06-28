@@ -1,8 +1,10 @@
-﻿namespace MyProject;
+﻿using System;
+
+namespace MyProject;
 
 class MyClass
 {
-    static void Main(string[] args)
+    static void Main3(string[] args)
     {
         Console.WriteLine("Hello, World!");
     }
